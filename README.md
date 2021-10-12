@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : alexgrz.dev@gmail.com
 
-https://grimonprez-alexis.herokuapp.com/
+build in progress ... https://grimonprez-alexis.herokuapp.com/
 
 
 <!---
