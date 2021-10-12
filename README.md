@@ -5,6 +5,7 @@
 - 📫 How to reach me : alexgrz.dev@gmail.com
 
 build in progress ... https://grimonprez-alexis.herokuapp.com/
+[linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
 
 
 <!---
