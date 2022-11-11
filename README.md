@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrimonprezAlexis
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Angular 2+ and React
+- 🌱 I’m currently improve Angular 2+ and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : alexgrz.dev@gmail.com
 
