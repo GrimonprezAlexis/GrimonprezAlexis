@@ -8,8 +8,8 @@
 
 
 - React Cusstom Package 📦
-https://www.npmjs.com/package/agr-custom-modal
-https://www.npmjs.com/package/agr-custom-dropdown
+[Modal](https://www.npmjs.com/package/agr-custom-modal)
+[Dropdown](https://www.npmjs.com/package/agr-custom-dropdown)
 
 
 <!---
