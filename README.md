@@ -4,7 +4,7 @@
 - 📫 How to reach me : alexgrz.dev@gmail.com
 
 🌱 WIP ... https://grimonprez-alexis.herokuapp.com/
-- [linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
+- [Linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
 
 
 React Cusstom Package 📦
