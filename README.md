@@ -10,6 +10,8 @@
 React Cusstom Package 📦
 - [Modal](https://www.npmjs.com/package/agr-custom-modal)
 - [Dropdown](https://www.npmjs.com/package/agr-custom-dropdown)
+- [Table](https://www.npmjs.com/package/agr-custom-table)
+
 
 
 <!---
