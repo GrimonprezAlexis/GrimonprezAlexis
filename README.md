@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : alexgrz.dev@gmail.com
 
-🌱 WIP ... [Portfolio](https://alexgrz.vercel.app/)
+🌱 WIP ... [My Web Portfolio](https://alexgrz.vercel.app/)
 - [Linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
 
 
