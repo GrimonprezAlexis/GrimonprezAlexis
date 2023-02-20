@@ -1,9 +1,12 @@
+ 
+My Web Portfolio 🌎🌍🌏
+[Website](https://alexgrz.vercel.app/)
+
+
 - 👋 Hi, I’m @GrimonprezAlexis
 - 👀 I’m interested in JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : alexgrz.dev@gmail.com
-
-🌱 WIP ... [My Web Portfolio](https://alexgrz.vercel.app/)
 - [Linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
 
 
