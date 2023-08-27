@@ -4,9 +4,9 @@ My Web Portfolio 🌎🌍🌏
 
 
 - 👋 Hi, I’m @GrimonprezAlexis
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in JavaScript Lib like Nextjs, Angular and innovative techno like pnpm, turbo ..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : alexgrz.dev@gmail.com
+- 📫 How to reach me : alexis.grimonprez@gmail.com
 - 💼 [Linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
 
 
