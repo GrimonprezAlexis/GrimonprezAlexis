@@ -4,7 +4,7 @@ My Web Portfolio 🌎🌍🌏
 
 
 - 👋 Hi, I’m @GrimonprezAlexis
-- 👀 I’m interested in Vue.js, React.js, Lib like Nextjs, Angular and innovative techno like pnpm, turbo ..
+- 👀 I’m interested in Js Framework like Nextjs, Vuejs, Reactjs, Angular and innovative techno like pnpm, turbo, vercel ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : alexis.grimonprez@gmail.com
 - 💼 [Linkedin](https://ch.linkedin.com/in/alexis-grimonprez-16263493)
